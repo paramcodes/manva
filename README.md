@@ -14,10 +14,7 @@ Create stunning visuals for Twitter/X, LinkedIn, and Instagram from curated star
 
 <br/>
 
-<video src="https://github.com/paramcodes/manva/releases/download/v0.1.0/demo.mp4" controls="controls" width="100%" style="max-width: 1000px; border-radius: 12px;">
-</video>
-
-https://github.com/paramcodes/manva/releases/download/v0.1.0/demo.mp4
+https://github.com/user-attachments/assets/a87e4aa8-fab1-49f4-9888-69ba3cce9395
 
 </div>
 
