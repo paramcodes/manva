@@ -14,11 +14,10 @@ Create stunning visuals for Twitter/X, LinkedIn, and Instagram from curated star
 
 <br/>
 
-https://github.com/user-attachments/assets/manva-demo-walkthrough
+<video src="https://github.com/paramcodes/manva/releases/download/v0.1.0/demo.mp4" controls="controls" width="100%" style="max-width: 1000px; border-radius: 12px;">
+</video>
 
-![Manva Studio Walkthrough](docs/assets/demo.gif)
-
-*Full demo video available in high definition: [`docs/assets/demo.mp4`](docs/assets/demo.mp4)*
+https://github.com/paramcodes/manva/releases/download/v0.1.0/demo.mp4
 
 </div>
 
